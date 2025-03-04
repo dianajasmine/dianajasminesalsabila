@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins';
     background-color:white;
     margin: 0;
     padding: 0;
@@ -47,7 +47,7 @@ nav {
 }
 
 .logo {
-    font-size: 30px;
+    font-size: 32px;
     font-weight: bold;
     color: whitesmoke;
 }
@@ -69,7 +69,7 @@ nav ul {
 nav ul li a {
     color:white;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 20px;
     scroll-behavior: smooth;
 }
 
@@ -123,6 +123,7 @@ p {
     margin: 10px 0;
     padding: 10px 0;
     text-align: left;
+    font-size: 22px;
 }
 
 ul {
@@ -224,7 +225,7 @@ select optgroup {
 }
 
 textarea {
-    height: 120px;
+    height: 100px;
     resize: none;
 }
 
@@ -253,7 +254,7 @@ button:hover {
 .footer {
     text-align: center;
     margin-top: 20px;
-    font-size: 14px;
+    font-size: 16px;
     color: #dedede;
 }
 
